@@ -1,0 +1,2 @@
+# UM-interAssignment
+Central_Tendency_Case_Study
